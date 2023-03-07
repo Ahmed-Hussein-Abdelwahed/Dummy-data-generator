@@ -5,6 +5,10 @@
 * Also can be used for categorical data generation.
 ==> Take some values to randomize from them and generate column(s).
 * You can specify column for date or not before data generation.
+## Using
+* Pandas
+* Numpy
+* Matplotlib
 ## Inputs
 * length of data to be generated
 * Number of columns
