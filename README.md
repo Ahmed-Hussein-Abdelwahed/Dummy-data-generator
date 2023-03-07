@@ -13,9 +13,10 @@
 * length of data to be generated
 * Number of columns
 * Date limits
+* Name for each column
 * Number of categorical columns
-** Number of available values
-** Each value
+==> Number of available values
+==> Each value
 ## Outputs
 * CSV file (.txt file)
 * Histogram and boxplot for each numerical column
