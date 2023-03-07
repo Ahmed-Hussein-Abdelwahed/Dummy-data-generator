@@ -1,9 +1,9 @@
 # Dummy data generator
 * A program implemented using python.
 * To be used for numerical data generation.
--- Take mean and sigma value (as inputs) and generate normal distribution. 
+==> Take mean and sigma value (as inputs) and generate normal distribution. 
 * Also can be used for categorical data generation.
---Take some values to randomize from them and generate column(s).
+==> Take some values to randomize from them and generate column(s).
 * You can specify column for date or not before data generation.
 ## Inputs
 * length of data to be generated
